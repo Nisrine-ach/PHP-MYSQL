@@ -1,7 +1,7 @@
 <?php
 
 $pdo = new PDO(
-    "mysql:host=localhost;dbname=enset2025",
+    "mysql:host=localhost;dbname=enset-2025",
     "root",
     ""
 );
